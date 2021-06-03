@@ -1,1 +1,2 @@
 # k8s_development_containers
+This repository contains a list of Docker images that can be deployed into your container environment. You can then connect to the container and work directly in the environment of your choice.
